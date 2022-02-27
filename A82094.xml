@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration made by the rebells in Ireland, against the English and Scotish Protestants, inhabitants within that kingdome. Also a traiterous oath and protestation lately contrived by the confederate rebells in a councell held at Kilkeney, against the Parliament of England, and Protestants of the three kingdomes. And a generall proclamation (published by the said councell) for arming of all Catholikes from 18 to 60. for subduing of all Protestants in the Kingdome of Ireland. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82094</idno>
+            <idno type="STC">Wing D601</idno>
+            <idno type="STC">Thomason E17_14</idno>
+            <idno type="STC">ESTC R21764</idno>
+            <idno type="EEBO-CITATION">99871497</idno>
+            <idno type="PROQUEST">99871497</idno>
+            <idno type="VID">123908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82094)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E17[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration made by the rebells in Ireland, against the English and Scotish Protestants, inhabitants within that kingdome. Also a traiterous oath and protestation lately contrived by the confederate rebells in a councell held at Kilkeney, against the Parliament of England, and Protestants of the three kingdomes. And a generall proclamation (published by the said councell) for arming of all Catholikes from 18 to 60. for subduing of all Protestants in the Kingdome of Ireland. Published according to order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Waterford by Tho. Bourke, printer to the Confederate Catholikes of Ireland: and re-printed at London by R. Austin, for J. T.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Declaration of Oath signed: Jeremy Green, Clerk of the Supreme Councell of Kilkeney.</note>
+                  <note>Annotation on Thomason copy: "nouemb: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Irish Confederation, 1642-1648 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123908:1" rendition="simple:additions"/>
+            <p>A DECLARATION MADE By the Rebells in IRELAND, AGAINST The Engliſh and Scotiſh Proteſtants, Inhabitants within that Kingdome.</p>
+            <p>
+               <hi>ALSO</hi> A traiterous Oath and Proteſtation lately contrived by the Confederate Rebells in a Councell held at Kilkeney, againſt the Parliament of England, and Proteſtants of the three Kingdomes.</p>
+            <p>AND A generall Proclamation (publiſhed by the ſaid Councell) for arming of all Catholikes from 18. to 60. for ſubduing of all Proteſtants in the Kingdome of Ireland.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>Printed at Waterford by <hi>Tho. Bourke,</hi> Printer to the Confederate Catholikes of Ireland: AND Re-printed at London by <hi>R. Auſtin,</hi> for <hi>J. T..</hi> 1644.</p>
+         </div>
+         <div type="introduction">
+            <pb n="2" facs="tcp:123908:2"/>
+            <p>I Have here preſented to your viewes what effect the firſt Ceſ<g ref="char:EOLhyphen"/>ſation of Arms with thoſe bloudy Miſcreants, the Iriſh Re<g ref="char:EOLhyphen"/>bels, hath wrought. 1. The ſending over of an Army to take part with the Malignants in our own Kingdome againſt the King and Parliament. 2. The freſh arming of many thouſands of the Rebels by ſupply from Dunkirke, France, and divers parts of the Low-Countreyes; by which means infinite ſtore of all ſorts of Ammunition is come to them. 3. A ſuffici<g ref="char:EOLhyphen"/>ent ſcope to fortifie themſelves in divers of their ſtrong holds, and victualling themſelves, by receiving the laſt Summers Har<g ref="char:EOLhyphen"/>veſt. 4. Unheard of bold and inſolent Propoſitions to His Ma<g ref="char:EOLhyphen"/>jeſty for a peace, juſtifying themſelves in their bloudy rebellious actions, as hath already been made appeare to all mens view: which Propoſitions of theirs cannot but be deſtructive to all Proteſtants within His Majeſties Dominions. For confirmation whereof I pray you take notice upon what condition Proteſtants may live among them: by this enſuing Oath framed by their ſu<g ref="char:EOLhyphen"/>preme Counſell (as they term themſelves) to be tendred to all Proteſtants in that Kingdome, ſeconded with a generall ſcanda<g ref="char:EOLhyphen"/>lous Proclamation, for the arming of all perſons from the age of 18. to 60. the better to over-awe that poor handfull of our Eng<g ref="char:EOLhyphen"/>liſh Proteſtants yet ſcatteringly remaining among them, in which Proclamation is ſet forth alſo what character they hold of theſe honourable Houſes of Parliament, and of all our well-affected Proteſtants: after the reading of which Proclamation, I hope there is no well-affected Proteſtant within His Majeſties whole Dominions, that will deſire, or wiſh any other peace with that wicked portion of Babels children, then <hi>Joſhua</hi> and the <hi>Iſraelites</hi> had with the Canaanites, but will rather ſet their heads, their hearts, their hands (and what elſe poſſible may be conducible) to bring that Kingdome to an habi<g ref="char:EOLhyphen"/>tation for Gods true Iſraelites, that the Goſpell of Chriſt may once more flouriſh there; and that more gloriouſly then ever; to which my prayers and ſervice are wholly dedicated.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:123908:2"/>
+            <head>A Declaration of the Lords, Gentry, and others of Leinſter and Munſter, of their intentions towards Engliſh and Scotiſh Proteſtants, Inhabi<g ref="char:EOLhyphen"/>tants within this Kingdome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas we are informed, that it is generally con<g ref="char:EOLhyphen"/>ceived and believed by the Engliſh, and Scotiſh Proteſtants Inhabitants of this Kingdome, that wee the Lords, Gentry, and others of the ſaid Kingdome have taken Armes, and taken Forces, for the extirpation and baniſhing of them out of this Kingdome, thereby to acquire to our ſelves their goods and eſtates: we therefore deſire to be rightly underſtood: for wee hereby declare, that we never conſented, nor intended, nor ne<g ref="char:EOLhyphen"/>will intend, nor condeſcended to any ſuch act, but do utterly diſ<g ref="char:EOLhyphen"/>claime them: but that each man knowne to be a moderate con<g ref="char:EOLhyphen"/>formable Proteſtant, may (as well as the Romiſh Catholicks) re<g ref="char:EOLhyphen"/>ſpectively live and enjoy the freedome of their own Religion, and peaceably and quietly poſſeſſe their own eſtates, ſo far forth as they, or any of them, ſhall joyne with us in this Oath follow<g ref="char:EOLhyphen"/>ing:</hi>
+            </p>
+            <p>
+               <hi>I A. B.</hi> Doe in the preſence of Almighty God, and all the Angells and Saints, and by the Contents of the Bible, promiſe, vow, ſweare and proteſt, to beare true Faith and Allegiance to our Soveraigne Lord King <hi>Charles,</hi> and the heires and ſucceſſors of his body begotten, and will defend him and them, as far as I may, with my life, power, and eſtate, againſt all perſons that attempt any thing againſt his or their Perſons, Honours Eſtates, and Dignities: and that I will
+<pb n="4" facs="tcp:123908:3"/>with the expoſing of my life, power, and eſtate, joyn with the ſaid Iriſh or any other, to recover his eſtate, royall Prerogatives, forcibly wreſted from him by the Puritanes, in the Houſes of Parliament in England, and to maintaine the ſame againſt them and all others, that ſhall di<g ref="char:EOLhyphen"/>rectly or indirectly indeavour to ſuppreſſe or doe any act contrary to re<g ref="char:EOLhyphen"/>gall government; as alſo to maintaine Epiſcopall Iuriſd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, and the lawfullneſſe thereof in the Church, powers and Priviledges of Pre<g ref="char:EOLhyphen"/>lates, and the lawfull Rights and Priviledges of the Subject: And I will doe no act or thing direct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y or indirectly, to hinder the free and publike exercize of the Romiſh Catholick Religion in any His Maje<g ref="char:EOLhyphen"/>ſties Dominions, and that I will joyne with, and be aſsiſtant to the members of this Common-wealth for redreſſe to be had of the griev<g ref="char:EOLhyphen"/>ances and preſſures thereof in ſuch manner and forme as ſhalbe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hought fit by a lawfull Parliament, and to my power as far as I may I will oppoſe and bring to condigne puniſhment, even to loſſe of life, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>berty, and eſtate, of all ſuch as either by force, or practice, counſells, pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> s conſpiracies, or otherwiſe, doe or attempt any thing to the con<g ref="char:EOLhyphen"/>tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, of a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Article, Clauſe, or any thing in this preſent Oath, Vow, or P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oteſtation, contained, and neither for reward, feare, or puniſh<g ref="char:EOLhyphen"/>ment, or any reſpect whatſoever, ſhall relinquiſh this Oath and Prote<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion. So helpe me God.</p>
+            <argument>
+               <p>
+                  <hi>This Declaration and Oath was entred in the Counſell Book of Kilkeney, and this is a true copie thereof. Witneſſe the hand of</hi>
+               </p>
+            </argument>
+            <closer>
+               <signed>Jeremy Green, Clerk of the ſupreme Councell of Kilkeney.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="5" facs="tcp:123908:3"/>
+            <head>
+               <hi>God ſave the King.</hi> By the Confederate Catholikes of the Supreme Councell.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Scotiſh Army in the Province of Ulſter, and other their adherents, in the ſaid Province, and other parts of the Kingdom, have of late (as of<g ref="char:EOLhyphen"/>ten before) taken a trayterous Oath of Covenant againſt his ſacred Majeſty, his Crown, and Digni<g ref="char:EOLhyphen"/>ty, and made an unchriſtian and prophane Vow for the utter ex<g ref="char:EOLhyphen"/>tirpation of the Iriſh Nation, and totall ſuppreſſion of the Catho<g ref="char:EOLhyphen"/>like Romane Religion, Subverſion of Monarchicall govern<g ref="char:EOLhyphen"/>ment, and introduction of confuſed Anarchy within this Realme: and not contented with the inhumane and unparalleld Maſſacres by them committed on poore labourers, women, chil<g ref="char:EOLhyphen"/>dren, and many thouſands of other Innocents of our Nation, without diſtinction of age, ſex, or condition before the conclu<g ref="char:EOLhyphen"/>ſion of the Ceſſation at Siggins Towne, on the 15. of September laſt, notwithſtanding continuall depredations, robberies, thefts, burnings, and deſtruction of all the Corne and Inhabitants in many Counties &amp; territories within the ſaid Realm, &amp; elſwhere by them acted before the ſaid Ceſſation: the ſaid trayterous Co<g ref="char:EOLhyphen"/>venanters receiving their maintenance, ſupport and orders, from the Rebells now in armes againſt His Majeſty in England; have augmented, and do rather multiply and increaſe, then diminiſh their exhorbitant courſes: and whereas the ſaid rebells have joy<g ref="char:EOLhyphen"/>ned in a ſtrict union and confederation to deſtroy the Iriſh Nati<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:123908:4"/>root and branch (as they terme it) and their Miniſters and adherents, by their directions, at Sea as well as at Land, do ex<g ref="char:EOLhyphen"/>erciſe no leſſe cruelty: for, as oft as their ſhipping doe meet any weaker Veſſels at Sea, tranſporting men from this Kingdom for His Majeſties ſervice in England, if Iriſh men, though Prote<g ref="char:EOLhyphen"/>ſtants, and valiant and uſefull ſervitors againſt the confederate Catholikes in this war, the Iriſh are thrown over board, as doth appear by the late throwing into the Sea, and drowning of an I<g ref="char:EOLhyphen"/>riſh Company of Foot of Colonell <hi>Willoughby's</hi> Regiment, all Proteſtants, and ſervitors as aforeſaid; and many women in their paſſage from Dublin to Briſtoll, by one of the pretended Parliament ſhips, and ſundry other examples of that kind, a<g ref="char:EOLhyphen"/>gainſt the Law of Warre and Nations. And whereas the ſaid Scotiſh Army, all compoſed of Rebels and Aſſaſſinates, are now in their march in great numbers towards the three Provinces of this Kingdome, to accompliſh the plots and machinations afore<g ref="char:EOLhyphen"/>ſaid: And whereas the ſaid Rebells in England have provided a great Navy, a conſiderable part whereof doth ſurround the ſea coaſt in this Kingdome, and are reſolved the next Summer, if it reſt in their power, which God defend, to land great Forces in the Province of Munſter and Leinſter: and the ſaid Rebells of Scotland have the like deſigne of landing of Forces in the parts of Ulſter, next unto the Province of Conaght: And whereas the Auxiliarie Forces of the three Provinces, deſigned and raiſed for the neceſſary defence of our Religion, King, and Nation, are now marched to the Province of Ulſter, under the Command of our very good Lord the Earl of <hi>Caſtlhaven,</hi> Generall, appointed by the laſt generall Aſſembly for the expedition of Ulſter, to re<g ref="char:EOLhyphen"/>pell the ſaid fury and inſolency of the ſaid Rebels. Wherefore we hold it of abſolute neceſſity for the ſafety of the Kingdome, and His Majeſties intereſt therein, that all the ſaid other three Provinces be forthwith in Armes, as well to preſerve themſelves at home from the ſaid intended invaſions, as alſo to be ready to
+<pb n="7" facs="tcp:123908:4"/>aſſiſt the ſaid Army abroad marcht into Ulſter, if need require. We do therefore by this publike Act and Proclamation, order, command, and require all the Lords, Knights and Gentlemen, Freeholders, and all other perſons, from the age of 18. yeares, to the age of 60. forthwith to put themſelves in armes and poſture of defence; and ſuch as want armes and ammunition, and are able, are hereby required to provide the ſame forthwith, for themſelves, their ſervants and retinue. And for the better effect<g ref="char:EOLhyphen"/>ing this high and important ſervice, we do hereby require, order &amp; command all and every the Governours, Deputy-Governours, Majors, Sheriffes, and all other Head-Officers of the reſpective Counties, Cities, and incorporate Townes of this Kingdome within our quarters, <hi>viz.</hi> the Governours, Deputy-Governours in the Counties where they are Governours, to call to aſſiſtance the high Sheriffe, and two or more of the Commiſſioners of the Army: and in Counties where there is no Governour, the high Sheriffe, calling to his aſſiſtance three, or more of the Commiſ<g ref="char:EOLhyphen"/>ſioners, of the Army: and in Cities, and corporate Townes, the Major and other Read-Officers, taking to aſſiſtance the re<g ref="char:EOLhyphen"/>commended Sheriffs and Bailiffs thereof, or any one or more of them, forthwith to ſummon all the Lords, Knights, Gentle<g ref="char:EOLhyphen"/>men, and Freeholders, and others, able and fit to beare armes, betweene the ages aforeſaid, to appeare well armed upon a cer<g ref="char:EOLhyphen"/>taine day, and in a certaine place, with the ſaid reſpective Coun<g ref="char:EOLhyphen"/>ties, Cities and Townes reſpectively, and upon ſuch appearance, to inliſt the names, ſirnames, age, armes and ammunition of e<g ref="char:EOLhyphen"/>very perſon, who will ſo appeare, in a book fairly written, and the ſaid Governour, Deputy-Governours, Major, high Sheriffs, and other Head-Officers, taking to their aſſiſtance, as aforeſaid, are hereby required and authorized to impoſe Fines, to the dou<g ref="char:EOLhyphen"/>ble value of the armes and ammunition, upon any perſon or per<g ref="char:EOLhyphen"/>ſons ſo ſummoned, that will make default, who ought to have, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccording to the meaning of this our Proclamation, and of other
+<pb n="8" facs="tcp:123908:5"/>our former Proclamations, to this effect: and to impoſe the ſingle value of the armes he ſhould have, upon ſuch as will ap<g ref="char:EOLhyphen"/>peare, and not be armed as becometh: And we require the ſaid governours, and other Officers aforeſaid, at their perills to make due returne unto the generall Aſſembly now neer at hand, or un<g ref="char:EOLhyphen"/>to us, in a faire booke fairly written, of the number, names, ſur<g ref="char:EOLhyphen"/>names, armes, ammunition, defaults, and fines aforeſaid, at the furtheſt, by the 6. day of the moneth of Auguſt.</p>
+            <closer>
+               <dateline>Given at Kilkeney <date>the 6. of July. 1644.</date>
+               </dateline>
+               <signed>Mount-Garret. Fz. Tho. Dublin. Antrim. Nettevill. Arthur Iveagh. John Cloynfect. Tho. Preſton. Edmond Fitz-Morris. Rich. Bealing. Tirlogh O Neile. Patrick Darcy. George Comins.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Waterford by <hi>Tho. Bourke,</hi> Printer to the Con<g ref="char:EOLhyphen"/>federate Catholikes of Ireland.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
